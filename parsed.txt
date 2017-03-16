@@ -1,0 +1,1208 @@
+[ { keywordText: 'cool ground water', keywordScore: 0.293201 },
+  { keywordText: 'location', keywordScore: 0.783052 },
+  { keywordText: 'road', keywordScore: 0.783052 },
+  { keywordText: 'car', keywordScore: 0.783052 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'amazing water quality', keywordScore: 0.760949 },
+  { keywordText: 'community aspect', keywordScore: 0.472429 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'Excellent quality', keywordScore: 0.880649 },
+  { keywordText: 'taste', keywordScore: 0.880649 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'comunity gathering spot',
+    keywordScore: 0.401534 },
+  { keywordText: 'Good water', keywordScore: 0.401534 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'small bottles', keywordScore: -0.511915 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'great taste', keywordScore: 0.746363 },
+  { keywordText: 'wonderful quality', keywordScore: 0.829841 },
+  { keywordText: 'Easy access', keywordScore: 0.712178 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'community noticeboard', keywordScore: 0.526262 },
+  { keywordText: 'Easy access', keywordScore: 0.655444 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'La Peche', keywordScore: -0.414197 },
+  { keywordText: 'Ice build-up', keywordScore: -0.835031 },
+  { keywordText: 'larger area', keywordScore: -0.835031 },
+  { keywordText: 'prime location', keywordScore: -0.414197 },
+  { keywordText: 'water/water people', keywordScore: -0.835031 },
+  { keywordText: 'thing', keywordScore: -0.414197 },
+  { keywordText: 'Parking', keywordScore: -0.662494 },
+  { keywordText: 'Aesthetics', keywordScore: -0.414197 },
+  { keywordText: 'signage', keywordScore: -0.662494 },
+  { keywordText: 'Wakefield', keywordScore: -0.414197 } ]
+[ { keywordText: 'Free drinkable water', keywordScore: 0.411175 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'big containers', keywordScore: 0 },
+  { keywordText: 'parking', keywordScore: -0.496527 },
+  { keywordText: 'spring', keywordScore: -0.496527 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'tastes', keywordScore: 0.804252 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Clean area', keywordScore: 0.468221 },
+  { keywordText: 'Safe water', keywordScore: 0.620211 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'water', keywordScore: 0.452526 },
+  { keywordText: 'meeting', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'Great water', keywordScore: 0.657791 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Aylmer', keywordScore: 0 },
+  { keywordText: 'taste', keywordScore: 0.849602 },
+  { keywordText: 'containers', keywordScore: 0 },
+  { keywordText: 'body', keywordScore: 0.849602 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'solar panel', keywordScore: 0.355026 },
+  { keywordText: 'water freezes', keywordScore: -0.814517 },
+  { keywordText: 'water bottle', keywordScore: 0.600767 },
+  { keywordText: 'electricity', keywordScore: 0.394397 },
+  { keywordText: 'people', keywordScore: 0.448344 },
+  { keywordText: 'pad', keywordScore: 0.838976 },
+  { keywordText: 'benches', keywordScore: 0.267079 },
+  { keywordText: 'bottles', keywordScore: 0.267079 },
+  { keywordText: 'Parking', keywordScore: -0.701334 },
+  { keywordText: 'costs', keywordScore: 0.315655 } ]
+[ { keywordText: 'fish tanks', keywordScore: 0 },
+  { keywordText: 'chlorine', keywordScore: 0 },
+  { keywordText: 'chemicals', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'roo', keywordScore: 0.234069 },
+  { keywordText: 'bench', keywordScore: 0 },
+  { keywordText: 'lighting', keywordScore: 0.307702 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'water tastes', keywordScore: 0.774893 },
+  { keywordText: 'Spring monitor', keywordScore: 0.787057 },
+  { keywordText: 'essential service', keywordScore: 0 },
+  { keywordText: 'social place', keywordScore: 0.700804 },
+  { keywordText: 'water quality', keywordScore: 0.787057 },
+  { keywordText: 'community folk', keywordScore: 0.700804 },
+  { keywordText: 'neighbours', keywordScore: 0.700804 },
+  { keywordText: 'landmark', keywordScore: 0.794646 },
+  { keywordText: 'Friends', keywordScore: 0.787057 } ]
+[ { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[]
+[ { keywordText: 'giant mound', keywordScore: 0 },
+  { keywordText: 'jugs', keywordScore: 0 },
+  { keywordText: 'awkwardness', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'Slippery', keywordScore: 0.50469 },
+  { keywordText: 'winter', keywordScore: 0.50469 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'people', keywordScore: 0.542677 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Light-hearted conversations',
+    keywordScore: -0.352658 },
+  { keywordText: 'neighbours', keywordScore: -0.352658 },
+  { keywordText: 'strangers', keywordScore: -0.352658 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'Good vibes', keywordScore: 0.587183 },
+  { keywordText: 'networking', keywordScore: 0.248807 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'francophone folks', keywordScore: 0.486454 },
+  { keywordText: 'quality water', keywordScore: 0.638482 },
+  { keywordText: 'video camera', keywordScore: 0 },
+  { keywordText: 'Masham', keywordScore: 0.486454 },
+  { keywordText: 'locals', keywordScore: 0 },
+  { keywordText: 'Simplicity', keywordScore: 0.638482 },
+  { keywordText: 'tourists', keywordScore: 0 },
+  { keywordText: 'SOS', keywordScore: -0.372917 },
+  { keywordText: 'signatures', keywordScore: -0.372917 },
+  { keywordText: 'Wish', keywordScore: 0 } ]
+[ { keywordText: 'La Peche', keywordScore: -0.414197 },
+  { keywordText: 'Ice build-up', keywordScore: -0.835031 },
+  { keywordText: 'larger area', keywordScore: -0.835031 },
+  { keywordText: 'prime location', keywordScore: -0.414197 },
+  { keywordText: 'water/water people', keywordScore: -0.835031 },
+  { keywordText: 'thing', keywordScore: -0.414197 },
+  { keywordText: 'Parking', keywordScore: -0.662494 },
+  { keywordText: 'Aesthetics', keywordScore: -0.414197 },
+  { keywordText: 'signage', keywordScore: -0.662494 },
+  { keywordText: 'Wakefield', keywordScore: -0.414197 } ]
+[ { keywordText: 'clear refreshing taste',
+    keywordScore: 0.844318 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'clean water', keywordScore: 0.46758 },
+  { keywordText: 'softeners', keywordScore: -0.55386 },
+  { keywordText: 'salt', keywordScore: -0.55386 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'flavour', keywordScore: 0 },
+  { keywordText: 'chlorine', keywordScore: -0.333454 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'clean natural water', keywordScore: 0.850803 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'icy', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'quick stop', keywordScore: 0.655153 },
+  { keywordText: 'Easy access', keywordScore: 0.655153 },
+  { keywordText: 'water source', keywordScore: 0.370659 },
+  { keywordText: 'pump', keywordScore: 0 },
+  { keywordText: 'city', keywordScore: 0.655153 },
+  { keywordText: 'power', keywordScore: 0.370659 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.326188 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'edge', keywordScore: -0.326188 },
+  { keywordText: 'road', keywordScore: -0.326188 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.303969 },
+  { keywordText: 'Ice', keywordScore: -0.303969 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'great water', keywordScore: 0.687817 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'couple more pipes', keywordScore: 0.566895 },
+  { keywordText: 'big line', keywordScore: 0 },
+  { keywordText: 'containers', keywordScore: 0.566895 },
+  { keywordText: 'summer', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'unspoken gratitude', keywordScore: 0.935554 },
+  { keywordText: 'good water', keywordScore: 0.935554 },
+  { keywordText: 'turns', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0.307024 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'good tasting water', keywordScore: 0.553503 },
+  { keywordText: 'highway construction', keywordScore: -0.578234 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'smell', keywordScore: -0.314518 },
+  { keywordText: 'water', keywordScore: 0.281131 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'unprotected pipe', keywordScore: -0.209005 },
+  { keywordText: 'regular stops', keywordScore: -0.482576 },
+  { keywordText: 'long relationship', keywordScore: -0.482576 },
+  { keywordText: 'spring', keywordScore: 0.209814 },
+  { keywordText: 'Maniwaki', keywordScore: -0.482576 },
+  { keywordText: 'grandchildren', keywordScore: 0.361323 },
+  { keywordText: 'grandparents', keywordScore: -0.482576 },
+  { keywordText: 'water', keywordScore: -0.209005 },
+  { keywordText: 'ground', keywordScore: -0.209005 },
+  { keywordText: 'family', keywordScore: -0.482576 } ]
+[ { keywordText: 'La Peche', keywordScore: -0.414197 },
+  { keywordText: 'Ice build-up', keywordScore: -0.835031 },
+  { keywordText: 'larger area', keywordScore: -0.835031 },
+  { keywordText: 'prime location', keywordScore: -0.414197 },
+  { keywordText: 'water/water people', keywordScore: -0.835031 },
+  { keywordText: 'thing', keywordScore: -0.414197 },
+  { keywordText: 'Parking', keywordScore: -0.662494 },
+  { keywordText: 'Aesthetics', keywordScore: -0.414197 },
+  { keywordText: 'signage', keywordScore: -0.662494 },
+  { keywordText: 'Wakefield', keywordScore: -0.414197 } ]
+[ { keywordText: 'HPM funeral home', keywordScore: -0.521142 },
+  { keywordText: 'ground water', keywordScore: -0.528032 },
+  { keywordText: 'ground water contamination',
+    keywordScore: -0.450725 },
+  { keywordText: 'party testing', keywordScore: -0.551512 },
+  { keywordText: 'actual reason', keywordScore: -0.461684 },
+  { keywordText: 'indictable offence', keywordScore: -0.645339 },
+  { keywordText: 'Quebec mafia', keywordScore: -0.642701 },
+  { keywordText: 'construction industry',
+    keywordScore: -0.293476 },
+  { keywordText: 'MTQ / Couillard', keywordScore: -0.581376 },
+  { keywordText: 'municipality', keywordScore: -0.347858 } ]
+[ { keywordText: 'garbage receptacles', keywordScore: -0.760437 },
+  { keywordText: 'winter', keywordScore: -0.674856 },
+  { keywordText: 'ice', keywordScore: -0.674856 },
+  { keywordText: 'People', keywordScore: -0.761357 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'Water quality', keywordScore: -0.28734 },
+  { keywordText: 'cost', keywordScore: -0.28734 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'Accessibility', keywordScore: 0.392949 },
+  { keywordText: 'community', keywordScore: 0.383527 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'straight forward.', keywordScore: 0.674966 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Wonderful taste', keywordScore: 0.933886 },
+  { keywordText: 'love', keywordScore: 0.933886 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'DANGEROUS FOOTING', keywordScore: 0.333202 },
+  { keywordText: 'EASY ACCESS', keywordScore: 0.333202 },
+  { keywordText: 'WINTER', keywordScore: 0.333202 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'taste', keywordScore: -0.250887 },
+  { keywordText: 'water', keywordScore: -0.250887 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'clean-tasting water', keywordScore: 0 },
+  { keywordText: 'users', keywordScore: 0 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'new people', keywordScore: 0 },
+  { keywordText: 'Portuguese families', keywordScore: 0 },
+  { keywordText: 'community', keywordScore: 0 },
+  { keywordText: 'Ottawa', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.326188 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'edge', keywordScore: -0.326188 },
+  { keywordText: 'road', keywordScore: -0.326188 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.303969 },
+  { keywordText: 'Ice', keywordScore: -0.303969 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'bench', keywordScore: 0 },
+  { keywordText: 'roof', keywordScore: 0 },
+  { keywordText: 'containers', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0.434037 },
+  { keywordText: 'water', keywordScore: 0.467168 },
+  { keywordText: 'purpose', keywordScore: 0.672377 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.326188 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'edge', keywordScore: -0.326188 },
+  { keywordText: 'road', keywordScore: -0.326188 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.303969 },
+  { keywordText: 'Ice', keywordScore: -0.303969 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'fresh clean water', keywordScore: 0.737642 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'la qualitÃ©', keywordScore: 0 },
+  { keywordText: 'source', keywordScore: 0 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'water containers', keywordScore: 0 },
+  { keywordText: 'good flow', keywordScore: 0.470065 },
+  { keywordText: 'people', keywordScore: 0 },
+  { keywordText: 'time', keywordScore: 0 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'icy', keywordScore: 0.789064 },
+  { keywordText: 'slippery', keywordScore: 0.789064 },
+  { keywordText: 'winter', keywordScore: 0.789064 } ]
+[]
+[ { keywordText: 'Clean cold', keywordScore: 0 },
+  { keywordText: 'natural source', keywordScore: 0.500096 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[]
+[ { keywordText: 'concern busy highway', keywordScore: -0.818933 },
+  { keywordText: 'bollards', keywordScore: -0.818933 },
+  { keywordText: 'safety', keywordScore: -0.818933 } ]
+[]
+[]
+[ { keywordText: 'white plastic flecks', keywordScore: -0.370694 },
+  { keywordText: 'pure water', keywordScore: 0 },
+  { keywordText: 'Wakefield', keywordScore: 0 },
+  { keywordText: 'signature', keywordScore: 0 },
+  { keywordText: 'fact', keywordScore: 0 } ]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'Water quality', keywordScore: 0.302715 },
+  { keywordText: 'Community', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'accessibility', keywordScore: 0.328086 },
+  { keywordText: 'Taste.', keywordScore: 0 },
+  { keywordText: 'safety', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'nove', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'taste', keywordScore: 0.506698 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Accessibility', keywordScore: 0.256815 },
+  { keywordText: 'parking', keywordScore: 0 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'issue', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'Great tasting', keywordScore: 0.794712 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'great ritual', keywordScore: 0 },
+  { keywordText: 'short break', keywordScore: -0.397338 },
+  { keywordText: 'cottage', keywordScore: -0.397338 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'drive', keywordScore: -0.397338 } ]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'traffic access', keywordScore: 0.393664 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'freshness', keywordScore: 0.764466 },
+  { keywordText: 'ease', keywordScore: 0.764466 },
+  { keywordText: 'bottles', keywordScore: 0.764466 },
+  { keywordText: 'parking', keywordScore: 0.764466 },
+  { keywordText: 'water', keywordScore: 0.764466 } ]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'interesting people', keywordScore: 0.550784 },
+  { keywordText: 'Sense', keywordScore: 0.431539 },
+  { keywordText: 'community', keywordScore: 0.431539 },
+  { keywordText: 'Water', keywordScore: 0.417827 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'icon', keywordScore: -0.282515 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Proximity', keywordScore: 0 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[]
+[ { keywordText: 'parking', keywordScore: -0.669821 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'taste', keywordScore: 0.564835 },
+  { keywordText: 'fine water', keywordScore: 0.564835 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'le Hibou', keywordScore: 0.41479 },
+  { keywordText: 'organic store', keywordScore: 0.41479 },
+  { keywordText: 'community', keywordScore: 0.41479 },
+  { keywordText: 'coffee', keywordScore: 0.41479 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'bike rides', keywordScore: 0.780246 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[]
+[ { keywordText: 'cars', keywordScore: 0 },
+  { keywordText: 'road', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'good earth', keywordScore: 0.831599 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'great water', keywordScore: 0.502727 },
+  { keywordText: 'bottles', keywordScore: 0.484468 },
+  { keywordText: 'aspect', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'accessibility', keywordScore: 0.377414 },
+  { keywordText: 'water quality', keywordScore: 0.32139 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'informal meeting place',
+    keywordScore: 0.459496 },
+  { keywordText: 'people', keywordScore: 0.538375 },
+  { keywordText: 'town', keywordScore: 0.538375 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'area', keywordScore: -0.468698 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'reliable water', keywordScore: 0.616428 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'place bottles', keywordScore: 0 },
+  { keywordText: 'bench', keywordScore: 0 },
+  { keywordText: 'roof', keywordScore: 0 },
+  { keywordText: 'location', keywordScore: 0 },
+  { keywordText: 'village', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.326188 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'edge', keywordScore: -0.326188 },
+  { keywordText: 'road', keywordScore: -0.326188 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.303969 },
+  { keywordText: 'Ice', keywordScore: -0.303969 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'community gathering point',
+    keywordScore: 0.503263 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'excellent taste', keywordScore: 0.491969 },
+  { keywordText: 'considerable distance', keywordScore: 0.454932 },
+  { keywordText: 'Wakefield visit', keywordScore: 0.777737 },
+  { keywordText: 'folks', keywordScore: 0.777737 },
+  { keywordText: 'spring', keywordScore: 0.634853 },
+  { keywordText: 'draw', keywordScore: 0.777737 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'visitors', keywordScore: 0.491969 } ]
+[ { keywordText: 'Garbage', keywordScore: -0.78484 },
+  { keywordText: 'weekends', keywordScore: -0.690409 },
+  { keywordText: 'site', keywordScore: -0.78484 } ]
+[]
+[]
+[ { keywordText: 'relative ease', keywordScore: 0.627281 },
+  { keywordText: 'access', keywordScore: 0.627281 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[]
+[ { keywordText: 'better parking arrangements',
+    keywordScore: 0.694901 },
+  { keywordText: 'Lighting', keywordScore: 0.694901 },
+  { keywordText: 'night', keywordScore: 0.694901 } ]
+[]
+[]
+[ { keywordText: 'Easy access', keywordScore: 0.553332 },
+  { keywordText: 'paint color', keywordScore: 0.305308 },
+  { keywordText: 'zoom', keywordScore: 0 },
+  { keywordText: 'area', keywordScore: 0.371464 },
+  { keywordText: 'blends', keywordScore: 0.519816 } ]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[]
+[ { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'sufficient parking', keywordScore: 0.561289 },
+  { keywordText: 'good quality water', keywordScore: 0.633998 },
+  { keywordText: 'easy access', keywordScore: 0.577602 },
+  { keywordText: 'flow', keywordScore: 0 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'abundant supply', keywordScore: 0.645711 },
+  { keywordText: 'good flow', keywordScore: 0.645711 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'pure clean taste', keywordScore: 0.667154 },
+  { keywordText: 'natural source', keywordScore: 0.635629 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'taste', keywordScore: 0 },
+  { keywordText: 'Wakefield', keywordScore: 0.449947 },
+  { keywordText: 'fact', keywordScore: 0.449947 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'TIDY', keywordScore: 0 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[]
+[]
+[]
+[ { keywordText: 'Great water', keywordScore: 0.626151 },
+  { keywordText: 'centre', keywordScore: 0 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'spiritual wholeness', keywordScore: 0 },
+  { keywordText: 'treatment processes', keywordScore: 0.401661 },
+  { keywordText: 'spring water', keywordScore: 0.586747 },
+  { keywordText: 'taste', keywordScore: 0.586747 },
+  { keywordText: 'chlorine', keywordScore: -0.220672 },
+  { keywordText: 'kind', keywordScore: 0.401661 },
+  { keywordText: 'healthiness', keywordScore: 0.586747 } ]
+[ { keywordText: 'small bottles', keywordScore: -0.511915 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'fresh spring water', keywordScore: 0.48259 },
+  { keywordText: 'access', keywordScore: 0.48259 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'quality drinbking water',
+    keywordScore: 0.935809 },
+  { keywordText: 'good accessibility', keywordScore: 0.935809 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: '78-year-old female', keywordScore: 0.617923 },
+  { keywordText: 'spring flow', keywordScore: 0.361279 },
+  { keywordText: 'canisters', keywordScore: 0.617923 },
+  { keywordText: 'water', keywordScore: 0.765535 },
+  { keywordText: 'cars', keywordScore: 0.391255 },
+  { keywordText: 'size', keywordScore: 0.617923 },
+  { keywordText: 'time', keywordScore: 0 } ]
+[ { keywordText: 'small bottles', keywordScore: -0.511915 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Fresh taste', keywordScore: 0.559356 },
+  { keywordText: 'stop', keywordScore: 0 },
+  { keywordText: 'kids', keywordScore: 0 } ]
+[ { keywordText: 'thing', keywordScore: -0.371759 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'water jugs', keywordScore: 0.457422 },
+  { keywordText: 'extended family members',
+    keywordScore: 0.236956 },
+  { keywordText: 'guilty pleasure', keywordScore: -0.374302 },
+  { keywordText: 'Sunday morning', keywordScore: 0 },
+  { keywordText: 'unchlorinated water', keywordScore: 0.372084 },
+  { keywordText: 'fresh water', keywordScore: 0.236956 },
+  { keywordText: 'people', keywordScore: 0.391789 },
+  { keywordText: 'spring', keywordScore: 0.411495 },
+  { keywordText: 'generations', keywordScore: 0.411495 },
+  { keywordText: 'pantry', keywordScore: 0.677889 } ]
+[ { keywordText: 'La Peche', keywordScore: -0.414197 },
+  { keywordText: 'Ice build-up', keywordScore: -0.835031 },
+  { keywordText: 'larger area', keywordScore: -0.835031 },
+  { keywordText: 'prime location', keywordScore: -0.414197 },
+  { keywordText: 'water/water people', keywordScore: -0.835031 },
+  { keywordText: 'thing', keywordScore: -0.414197 },
+  { keywordText: 'Parking', keywordScore: -0.662494 },
+  { keywordText: 'Aesthetics', keywordScore: -0.414197 },
+  { keywordText: 'signage', keywordScore: -0.662494 },
+  { keywordText: 'Wakefield', keywordScore: -0.414197 } ]
+[ { keywordText: 'community contact', keywordScore: 0.22565 },
+  { keywordText: 'water', keywordScore: 0.22565 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'ease', keywordScore: 0.795355 },
+  { keywordText: 'Location', keywordScore: 0.795355 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'generally clean environment',
+    keywordScore: 0.448916 },
+  { keywordText: 'clean water', keywordScore: 0.300481 },
+  { keywordText: 'Friendliness', keywordScore: 0.829653 },
+  { keywordText: 'course', keywordScore: 0.545089 } ]
+[ { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'water test data', keywordScore: 0.336477 },
+  { keywordText: 'website', keywordScore: 0.336477 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]
+[ { keywordText: 'chance encounters', keywordScore: 0.674786 },
+  { keywordText: 'focal point', keywordScore: 0.674786 },
+  { keywordText: 'rarity', keywordScore: 0.565725 },
+  { keywordText: 'members', keywordScore: 0.674786 },
+  { keywordText: 'community', keywordScore: 0.674786 },
+  { keywordText: 'opportunity', keywordScore: 0.344279 },
+  { keywordText: 'water', keywordScore: 0.344279 },
+  { keywordText: 'nature', keywordScore: 0.344279 } ]
+[ { keywordText: 'Garbage', keywordScore: -0.78484 },
+  { keywordText: 'weekends', keywordScore: -0.690409 },
+  { keywordText: 'site', keywordScore: -0.78484 } ]
+[]
+[]
+[ { keywordText: 'good quality water', keywordScore: 0.71072 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'cleanest tasting water',
+    keywordScore: 0.608594 },
+  { keywordText: 'family', keywordScore: 0.608594 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'water tastes', keywordScore: 0.737561 } ]
+[ { keywordText: 'rare thing', keywordScore: 0.437186 },
+  { keywordText: 'sacred source', keywordScore: 0 },
+  { keywordText: 'messy', keywordScore: -0.735477 },
+  { keywordText: 'Wakefield', keywordScore: -0.595873 },
+  { keywordText: 'commons', keywordScore: 0.437186 },
+  { keywordText: 'Ice', keywordScore: -0.53884 },
+  { keywordText: 'winter', keywordScore: -0.53884 },
+  { keywordText: 'water', keywordScore: 0 },
+  { keywordText: 'all.', keywordScore: 0.437186 } ]
+[ { keywordText: 'ice', keywordScore: 0 } ]
+[ { keywordText: 'vital public resource', keywordScore: 0.691847 },
+  { keywordText: 'commuinty. wakefield', keywordScore: -0.650805 },
+  { keywordText: 'importance', keywordScore: -0.650805 },
+  { keywordText: 'houses', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'cottagers', keywordScore: 0.227676 },
+  { keywordText: 'power', keywordScore: 0.568755 } ]
+[ { keywordText: 'Amazing taste', keywordScore: 0.75908 },
+  { keywordText: 'body', keywordScore: 0.705439 } ]
+[ { keywordText: 'bit', keywordScore: 0.23988 },
+  { keywordText: 'parking', keywordScore: 0.23988 },
+  { keywordText: 'ground', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 } ]
+[ { keywordText: 'actual spout', keywordScore: -0.641045 },
+  { keywordText: 'Winter ice', keywordScore: 0 },
+  { keywordText: 'water', keywordScore: -0.641045 } ]
+[]
+[ { keywordText: 'clean local water', keywordScore: 0.38799 },
+  { keywordText: 'Ease', keywordScore: 0.38799 },
+  { keywordText: 'access', keywordScore: 0.38799 },
+  { keywordText: 'supply', keywordScore: 0.38799 },
+  { keywordText: 'cost', keywordScore: 0.38799 } ]
+[ { keywordText: 'lineups', keywordScore: 0 },
+  { keywordText: 'people', keywordScore: 0 } ]
+[ { keywordText: 'wet ground', keywordScore: -0.548933 },
+  { keywordText: 'parking', keywordScore: -0.306757 },
+  { keywordText: 'winter', keywordScore: -0.306757 } ]
+[]
+[ { keywordText: 'spring water', keywordScore: 0.435161 },
+  { keywordText: 'great place', keywordScore: 0.880454 },
+  { keywordText: 'Wakefield', keywordScore: 0.880454 },
+  { keywordText: 'restaurants', keywordScore: 0 },
+  { keywordText: 'landscape', keywordScore: 0.69794 },
+  { keywordText: 'region', keywordScore: 0 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.326188 },
+  { keywordText: 'ice', keywordScore: 0 },
+  { keywordText: 'spring', keywordScore: 0 },
+  { keywordText: 'winter', keywordScore: 0 },
+  { keywordText: 'edge', keywordScore: -0.326188 },
+  { keywordText: 'road', keywordScore: -0.326188 } ]
+[ { keywordText: 'pot holes', keywordScore: -0.303969 },
+  { keywordText: 'Ice', keywordScore: -0.303969 } ]
+[ { keywordText: 'Perfect fit', keywordScore: 0.840305 } ]

@@ -1,62 +1,78 @@
  const data = require("./data.json")
 
-//input any question, get the correct column data
+//input any question, get the corrresponding column number's data
 function getQuestion(columnNumber, data) {
 	for (i in data) {
 		for (j in data[i].watson) {
-			let participant = data[i].watson[j]
-			if (participant.analysis) {
-				let documentText = participant.text;
-				let documentScore = participant.analysis.sentiment.document.score
-				// console.log(`${documentText}; ${documentScore}`)
-			}
-				participant['column-idx'] = columnNumber
-				// console.log(participant)
-				if (participant.analysis) {
-					let keywords = participant.analysis.keywords
-					// console.log(keywords)
-					for (word in keywords) {
-						let keywordText = keywords[word].text;
-						let keywordScore = keywords[word].sentiment.score
-						console.log(`${keywordText}; ${keywordScore}`)					
-					}
-					// console.log(participant.analysis.keywords)
-					let text = participant.analysis.keywords
-					let keywordsObj = {"word": text, "score": participant.analysis.keywords}
+			let participants = data[i].watson[j];
+			if (participants.analysis) {
+				if (participants['column-idx'] === columnNumber) {
+					getDocumentSentiment(participants);
+					getKeywords(participants);
 				}
-
+			}
 		}
 	}
 }
 
-function keyValues(question) { 
-	const sentimentArr = [];
-	console.log(question)
-	// for (k in sentimentAnalysis){
-	// 	if (sentimentAnalysis[k]) {
-	// 		let comment = sentimentAnalysis[k].keywords
-	// 		for (m in comment) {
-	// 			let sentimentObj = {text: comment[m].text, score: comment[m].sentiment.score}
-	// 			sentimentArr.push(sentimentObj);
-	// 		}
-	// 		sortValues(sentimentArr);
-	// 	}
-	// }
+//get sentiment text and score for a whole document
+//this will need to get sorted too
+function getDocumentSentiment(documentArr) {
+	let documentText = documentArr.text;
+	let documentScore = documentArr.analysis.sentiment.document.score;
+	return documentObj = {"documentText": documentText, "documentScore": documentScore};
 }
 
+//get keyword text and scores for the same document
+function getKeywords(documentArr) {
+	let keywordArr = [];
+	let keywords = documentArr.analysis.keywords;
+	for (word in keywords) {
+		let keywordText = keywords[word].text;
+		let keywordScore = keywords[word].sentiment.score
+		let keywordObj = {"keywordText": keywordText, "keywordScore": keywordScore}
+		keywordArr.push(keywordObj);			
+	}
+	sortValues(keywordArr);
+}
+
+//sort in ascending order
 function compare(a,b) {
-  if (a.score < b.score)
+  if (a.score < b.score) 
     return -1;
   if (a.score > b.score)
     return 1;
   return 0;
 }
 
-function sortValues(arr){
-	let concatedArr = [].concat.apply([], arr)
-	let sortedValues = arr.sort(compare)
-	console.log(sortedValues)
-	// console.log(concatedArr)
+// PROBLEM 1: should remove empty arrays (it doesn't) and make all the arrays into one
+function flatten(a) {
+  return Array.isArray(a) ? [].concat.apply([], a.map(flatten)) : a;
 }
 
-getQuestion(11, data)
+
+function sortValues(arr) {
+	let newArr = []
+		for (i in arr) {
+			newArr.push(arr[i])
+		}
+	let concatArr = flatten(newArr)
+
+	//PROBLEM 2: should sort the flattened array
+	// let sortedValues = concatArr.sort(compare)
+
+	console.log(concatArr)
+
+}
+
+//if the data is the same, console.log true
+//PROBLEM 3: why is this always true?
+function checkData() {
+	if (getQuestion(10, data) === getQuestion(11, data)) {
+		console.log("true")
+	} else {
+		console.log("false")
+	}
+}
+
+checkData()
