@@ -1,4 +1,4 @@
-const parsedKeywords = require('./parsed')
+const parsedKeywords = require('./postalCodes-community.js')
 const fs = require('fs');
 
 function compare(a,b) {
@@ -10,16 +10,17 @@ function compare(a,b) {
 }
 
 function sortByKeywordScore(arr) {
-  let sortedKeywords = arr.sort(compare)
-  let newLineKeywords = JSON.stringify(sortedKeywords)
-  return newLineKeywords;
+  // console.log(arr.toArr())
+  console.log(parsedKeywords)
+  // let sortedKeywords = arr.sort(compare)
+  // let newLineKeywords = JSON.stringify(sortedKeywords)
+  // return newLineKeywords;
 }
 
 const data = sortByKeywordScore(parsedKeywords)
 
 
-
-fs.appendFile('./data.txt', data, (err) => {
+fs.appendFile('./community.txt', data, (err) => {
   if (err) throw err;
   console.log('The "data to append" was appended to file!');
 });
