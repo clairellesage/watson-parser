@@ -1,4 +1,6 @@
 const data = require("./data.json");
+const fs = require('fs');
+
 
 //input any question, get the corrresponding column number's data
 function getQuestion(columnNumber, data) {
@@ -7,14 +9,37 @@ function getQuestion(columnNumber, data) {
       let participants = data[i].watson[j];
       if (participants.analysis) {
         if (participants['column-idx'] === columnNumber) {
-          let keywordObj = {sentiment: getDocumentSentiment(participants),
-                              keywords: getKeywords(participants)
-                              };
-          console.log(keywordObj)
-        }
-      }
+          let sentiment = getDocumentSentiment(participants);
+          let keywords = getKeywords(participants);
+          let keywordsArr = [];
+            for (k in keywords) {
+              console.log(keywords[k])
+            } 
+        } 
+      } 
     }
   }
+
+}
+
+function getKeywordArray(keywords) {
+  let keywordArr = [];
+  for (k in keywords) {
+    return keywords[k]
+  }
+  return keywordArr;
+}
+
+function flatten(ary) {
+    var ret = [];
+    for(var i = 0; i < ary.length; i++) {
+        if(Array.isArray(ary[i])) {
+            ret = ret.concat(flatten(ary[i]));
+        } else {
+            ret.push(ary[i]);
+        }
+    }
+    return ret;
 }
 
 //get sentiment text and score for a whole document
@@ -54,3 +79,9 @@ function sortValues(arr) {
 }
 
 getQuestion(9, data)
+
+// fs.appendFile('./output.txt', data, (err) => {
+//   if (err) throw err;
+//   getQuestion(9, data);
+//   console.log('The "data to append" was appended to file!');
+// });
