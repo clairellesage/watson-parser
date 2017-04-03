@@ -4,43 +4,29 @@ const fs = require('fs');
 
 //input any question, get the corrresponding column number's data
 function getQuestion(columnNumber, data) {
-  for (i in data) {
-    for (j in data[i].watson) {
-      let participants = data[i].watson[j];
-      if (participants.analysis) {
-        if (participants['column-idx'] === columnNumber) {
-          let sentiment = getDocumentSentiment(participants);
-          let keywords = getKeywords(participants);
-          let keywordsArr = [];
-          for (k in keywords) {
-             console.log(keywords[k])
-          } 
-        } 
-      } 
-    }
-  }
-
-}
-
-function getKeywordArray(keywords) {
-  let keywordArr = [];
-  for (k in keywords) {
-    return keywords[k]
-  }
-  return keywordArr;
-}
-
-function flatten(ary) {
-    var ret = [];
-    for(var i = 0; i < ary.length; i++) {
-        if(Array.isArray(ary[i])) {
-            ret = ret.concat(flatten(ary[i]));
-        } else {
-            ret.push(ary[i]);
+    var keywordsArr = [];
+    for (i in data) {
+        for (j in data[i].watson) {
+            let participants = data[i].watson[j];
+            if (participants.analysis) {
+                if (participants['column-idx'] === columnNumber) {
+                    let sentiment = getDocumentSentiment(participants);
+                    let keywords = getKeywords(participants);
+                    for (k in keywords) {
+                        keywordsArr.push (keywords[k]);
+                    }
+                }
+            }
         }
     }
-    return ret;
+    let sortedKeywords = keywordsArr.sort(compare);
+    let keywordsStr = ''
+    for (i in sortedKeywords){
+      keywordsStr += `${sortedKeywords[i].keywordText}, ${sortedKeywords[i].keywordScore}; `
+    }
+    return keywordsStr;
 }
+
 
 //get sentiment text and score for a whole document
 //this will need to get sorted too
@@ -61,7 +47,7 @@ function getKeywords(documentArr) {
     keywordArr.push(keywordObj);
 
   }
-  return sortValues(keywordArr);
+  return keywordArr.sort(compare);
 }
 
 //sort from highest to lowest
@@ -78,10 +64,11 @@ function sortValues(arr) {
   return sortedArr;
 }
 
-getQuestion(9, data)
+// getQuestion(9, data)
 
-// fs.appendFile('./output.txt', data, (err) => {
-//   if (err) throw err;
-//   getQuestion(9, data);
-//   console.log('The "data to append" was appended to file!');
-// });
+const newData = JSON.stringify(getQuestion(9, data))
+
+fs.appendFile('./output.txt', newData, (err) => {
+  if (err) throw err;
+  console.log('The "data to append" was appended to file!');
+});
