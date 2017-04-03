@@ -1,5 +1,5 @@
 # watson-parser
 
-To run parser, 
-  node parser.js
+To run parser, clone the repo and type, 
+	node parser.js
  
