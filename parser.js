@@ -12,9 +12,9 @@ function getQuestion(columnNumber, data) {
           let sentiment = getDocumentSentiment(participants);
           let keywords = getKeywords(participants);
           let keywordsArr = [];
-            for (k in keywords) {
-              console.log(keywords[k])
-            } 
+          for (k in keywords) {
+             console.log(keywords[k])
+          } 
         } 
       } 
     }
